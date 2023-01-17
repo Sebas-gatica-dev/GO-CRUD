@@ -1,15 +1,9 @@
 # demo-crud-api-rest-go
 CRUD con Golang utilizando Gorm, Mux & MySQL.
+>
 
 <br>
-<b>Vídeo CRUD patron MVC:</b><br>
-<b>https://youtu.be/LNMClfevnpI</b><br>
-<br>
+Facebook : https://www.facebook.com/profile.php?id=100088018975328<br>
+Linkedin: https://www.linkedin.com/in/sebastian-gatica-062985200/<br>
 
-<br>
-<b><a href="https://goo.gl/v2Oej4" target="_blank">#VamosPorLos100k</a><b>
-<br>
-Facebook : https://goo.gl/xhoMZM<br>
-Twitter: https://goo.gl/YhHtCL<br>
-Instagram: https://bit.ly/2CzrSVP<br>
 
